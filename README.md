@@ -1,7 +1,8 @@
 # TileAnimationServer
- Maya Script Backend of Tile Animation
+ Maya Script Backend of Tile Animation Character with photorealistic render Arnold
  
-![image](https://github.com/Kususumu/TileAnimationServer/blob/master/doc/maya.jpg)
+<img src="https://github.com/Kususumu/TileCharacterServer/blob/master/doc/maya.jpg" width="267" height="267"> |
+<img src="https://github.com/Kususumu/TileCharacterServer/blob/master/doc/Arnold.JPG" width="267" height="267"> 
 
 //Render Server Architecture
 
