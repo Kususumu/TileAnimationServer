@@ -7,10 +7,8 @@
 ### photorealistic character
 <img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/character.png" width="192" height="108">
 
-### Render Server Architecture
+# Render Server Architecture
 ![image](https://github.com/Kususumu/TileAnimationServer/blob/master/doc/RenderServer.png)
- 
-
 
 # output demo
 <img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show1.png" width="172.5" height="112.5">|
