@@ -4,13 +4,13 @@
 <img src="https://github.com/Kususumu/TileCharacterServer/blob/master/doc/maya.jpg" width="150" height="150"> |+|
 <img src="https://github.com/Kususumu/TileCharacterServer/blob/master/doc/Arnold.JPG" width="150" height="150"> 
 
-//Render Server Architecture
+### photorealistic character
+<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/character.png" width="192" height="108">
 
+### Render Server Architecture
 ![image](https://github.com/Kususumu/TileAnimationServer/blob/master/doc/RenderServer.png)
+ 
 
-// photorealistic character
-
-![image](https://github.com/Kususumu/TileAnimationServer/blob/master/doc/character.png)
 
 // output demo
 
