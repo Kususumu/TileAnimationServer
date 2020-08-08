@@ -13,6 +13,6 @@
 
 
 # output demo
-<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show1.png" width="115*1.3" height="75*1.3">|
-<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show2.png" width="115*1.3" height="75*1.3">|
-<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show3.png" width="115*1.3" height="75*1.3">
+<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show1.png" width="172.5" height="112.5">|
+<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show2.png" width="172.5" height="112.5">|
+<img src="https://github.com/Kususumu/TileAnimationServer/blob/master/doc/show3.png" width="172.5" height="112.5">
